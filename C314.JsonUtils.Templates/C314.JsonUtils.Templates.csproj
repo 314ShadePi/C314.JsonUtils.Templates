@@ -8,6 +8,18 @@
     <Copyright>Copyright 2022 314ShadePi</Copyright>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>Class templates for creating json text/files.</Description>
+    <PackageProjectUrl>https://github.com/314ShadePi/C314.JsonUtils.Templates</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/314ShadePi/C314.JsonUtils.Templates</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>Json; Template</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
