@@ -1,4 +1,4 @@
-namespace C314.jsonTemplates
+namespace C314.JsonUtils.Templates
 {
 
     public class CList

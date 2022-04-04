@@ -13,6 +13,9 @@
     <RepositoryUrl>https://github.com/314ShadePi/C314.JsonUtils.Templates</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>Json; Template</PackageTags>
+	<VersionPrefix>2.0.0</VersionPrefix>
+	<RepositoryType>git</RepositoryType>
+	<PackageReleaseNotes>Changed namespace to match project.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
