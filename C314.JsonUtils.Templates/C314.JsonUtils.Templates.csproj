@@ -13,9 +13,9 @@
     <RepositoryUrl>https://github.com/314ShadePi/C314.JsonUtils.Templates</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>Json; Template</PackageTags>
-	<VersionPrefix>2.0.0</VersionPrefix>
+	<VersionPrefix>2.1.0</VersionPrefix>
 	<RepositoryType>git</RepositoryType>
-	<PackageReleaseNotes>Changed namespace to match project.</PackageReleaseNotes>
+	<PackageReleaseNotes>Added ToString and PrettyPrint methods to Clist, Board and Item classes.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
